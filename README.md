@@ -13,16 +13,25 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 - In this project, I present a website in which the Crop Yield Prediction of any country is implemented
 
   - In the Crop Yield Prediction, the user can provide the average rainfall data, country, year, pesticides, temperature and country from their side and the application will predict yield of their crop.
-## Screenshots
+## Built with 🛠️
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="200"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="200"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50"/>
+  <img src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" alt="NUMPY" width="90"/>
+  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" alt="PANDAS" width="90"/>
+  <img src="https://camo.githubusercontent.com/55a55cebad6360bda8bca520c61e0e195dc7ee413bf9982f1ba86cab496f2388/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" alt="matplotlib" width="90"/>
+  <img src="https://camo.githubusercontent.com/c84f8ccac2a223fcabe74cd7975a3b31a2618b29d2c4fcea268f16b9151ad5fd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f3132383070782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" alt="scikit-learn" width="90"/>
 </p>
 
 
 ## Demo
+
+### Crop Yield Prediction
+![crop_yield](https://github.com/user-attachments/assets/716f0584-8831-4f3f-bea6-5fccbba2c168)
+
 
 
 

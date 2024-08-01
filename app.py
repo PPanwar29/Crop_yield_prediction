@@ -1,17 +1,18 @@
+#importing all necessary library
 from flask import Flask, request, render_template
 import numpy as np
 import pickle
 import sklearn
 
 print(sklearn.__version__)
-# loading models
+# loading model
 dtr = pickle.load(open('dtr.pkl', 'rb'))
 preprocessor = pickle.load(open('preprocessor.pkl', 'rb'))
 
 # flask app
 app = Flask(__name__)
 
-
+#To render the html page
 @app.route('/')
 def index():
     return render_template('index.html')
